@@ -1,4 +1,4 @@
-public class BOOK_MY_STAY {
+public class bookmystay {
     public static void main(String[] args) {
 
         System.out.println("===================================");
