@@ -28,7 +28,7 @@ class RoomInventory {
     }
 }
 
-public class UseCase3InventorySetup {
+public class BookMyStay {
     public static void main(String[] args) {
         RoomInventory manager = new RoomInventory();
         System.out.println("Initial State:");
