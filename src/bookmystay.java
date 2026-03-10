@@ -56,7 +56,7 @@ class SuiteRoom extends Room {
     }
 }
 
-public class UseCase2RoomInitialization {
+public class bookmystay{
     public static void main(String[] args) {
         System.out.println("--- Book My Stay App: Room Inventory ---");
 
